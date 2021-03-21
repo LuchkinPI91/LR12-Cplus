@@ -1,0 +1,9 @@
+﻿  labr12c++v2.cpp
+C:\Users\gamel\source\repos\labr12c++v2\labr12c++v2.cpp(319,10): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\gamel\source\repos\labr12c++v2\labr12c++v2.cpp(614,33): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\gamel\source\repos\labr12c++v2\labr12c++v2.cpp(671,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\gamel\source\repos\labr12c++v2\labr12c++v2.cpp(671,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\gamel\source\repos\labr12c++v2\labr12c++v2.cpp(598,11): warning C4930: students st(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\gamel\source\repos\labr12c++v2\labr12c++v2.cpp(260): warning C4172: возвращение адреса локальной или временной переменной : sum1
+C:\Users\gamel\source\repos\labr12c++v2\labr12c++v2.cpp(278): warning C4172: возвращение адреса локальной или временной переменной : sum2
+  labr12c++v2.vcxproj -> C:\Users\gamel\source\repos\labr12c++v2\Debug\labr12c++v2.exe
